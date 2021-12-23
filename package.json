@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "DATABASE_URL=postgres://ymxlgfjwpucbap:6021de4ac523f6ba5d352352480b8766f8ef37613d3bc8cf838bb7439ec71d40@ec2-34-195-69-118.compute-1.amazonaws.com:5432/d8s8skjdmeciem node index.js"
   },
   "keywords": [],
   "author": "",
